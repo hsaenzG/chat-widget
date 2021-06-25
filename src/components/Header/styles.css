@@ -1,0 +1,21 @@
+.headerComp{
+    border-radius: 33px 33px 0px 0px;
+    -moz-border-radius: 33px 33px 0px 0px;
+    -webkit-border-radius: 33px 33px 0px 0px;
+    border: 1px solid #000000;
+    background: #1d0b6e;
+    font-family: 'Nunito Sans',sans-serif;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+
+.headerComp h1{
+    color:white;
+    font-weight: bold;
+}
+
+.headerComp p{
+    color:white;
+    text-align: center;
+}

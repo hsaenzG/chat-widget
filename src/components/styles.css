@@ -1,0 +1,34 @@
+.ChatLayoutCont{
+    -webkit-box-shadow: 13px 8px 10px 0px rgba(214,214,214,1);
+    -moz-box-shadow: 13px 8px 10px 0px rgba(214,214,214,1);
+    box-shadow: 13px 8px 10px 0px rgba(214,214,214,1);
+    /*border-radius: 10px 10px 10px 10px;*/
+    border-radius: 33px 33px 0px 0px;
+    /*-moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;*/
+
+    -moz-border-radius: 33px 33px 0px 0px;
+    -webkit-border-radius: 33px 33px 0px 0px;
+    border: 0px solid #000000;
+    max-width: 350px;
+    padding: 0%;
+
+    visibility:visible;
+    
+    background-color: white;
+}
+
+.container
+{
+    margin-left: auto;
+    margin-right: 0px;
+
+   
+}
+.ChatLayoutCont-hide {
+    visibility: hidden;
+}
+
+.ShowChat{
+    text-align: end;
+}

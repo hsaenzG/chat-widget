@@ -1,0 +1,49 @@
+.msgServer{
+    border-radius: 61px 61px 61px 61px;
+    -moz-border-radius: 61px 61px 61px 61px;
+    -webkit-border-radius: 61px 61px 61px 61px;
+    border: 0px solid #000000;
+    background: #cad4e8;
+    /*margin-left: 5px;*/
+    width: 100%;
+    box-sizing: border-box;
+    margin: 2px;
+    height: 10px;
+}
+
+.msgClient{
+    border-radius: 61px 61px 61px 61px;
+    -moz-border-radius: 61px 61px 61px 61px;
+    -webkit-border-radius: 61px 61px 61px 61px;
+    border: 0px solid #000000;
+    /*margin-right: 5px;*/
+    width: 100%;
+    background: #faffd1;
+    box-sizing: border-box;
+    margin : 2px;
+    height: 10px;
+}
+.iconServer{ 
+    align-items: flex-start;
+    
+    color:#211387;
+}
+.iconClient{
+    align-items: flex-end;
+    color:#211387;
+}
+.noIcon{
+    visibility: hidden;
+}
+.msgContServer{
+    display:inline-block;
+    align-content:right ;
+    text-align: right;
+    margin-top: 5px;
+}
+.msgContClient{
+    display:inline-block;
+    align-content:left ;
+    text-align: right;
+    margin-top: 5px;
+}
